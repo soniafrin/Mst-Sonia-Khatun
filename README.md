@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Working with: JavaScript, React, and Next.js
